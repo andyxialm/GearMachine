@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#DC152B</color>
+    <color name="red_dark">#A91E2C</color>
+    <color name="red_transition">#C71325</color>
+    <color name="red_transition_dark">#AAB11020</color>
+    <color name="shadow_black">#24000000</color>
+</resources>
